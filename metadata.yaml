@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6548
     wikipedia: http://en.wikipedia.org/wiki/Edward_Everett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16227#The-Uses-of-AstronomyAn-Oration-Delivered-at-Albany-on-the-28th-of-July-1856
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2005-07-06'
 gutenberg_type: Text
